@@ -53,9 +53,9 @@ The dataset is manually created and inserted into a SQLite table named `sales`. 
 
 ## 📊 Chart Highlights:
 
--📱 Smartwatch generated the highest revenue
--👕 Hoodie had the highest quantity sold, but lower unit price
--🎧 Headphones and 👟 Sneakers showed good performance
+*📱 Smartwatch generated the highest revenue
+*👕 Hoodie had the highest quantity sold, but lower unit price
+*🎧 Headphones and 👟 Sneakers showed good performance
 
 --
 
